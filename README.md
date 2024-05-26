@@ -9,6 +9,9 @@ Evento online via Zoom <br> <br>
 <img src="https://github.com/PaulaSena/Calculana/assets/45314696/63ecdb4d-8494-4fa6-a7f0-5d2f97741600" style="height: 320px; width: 320px;"> 
 
 https://www.sympla.com.br/
+
+Veja como ficou a CalcuLAna https://paulasena.github.io/Calculana
+
 #### Area de trabalho
 <details>Preparando pra aula <br>
     Para esse meetup usamos o: <br>
