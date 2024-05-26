@@ -2,7 +2,7 @@
 Women Techmakers
 Criando calculadora com HTML + JAVASCRIPT + CSS até a publicação no GitHub Pages <br>
 
-Por: Luana Cristina  <br>
+Palestrante: Luana Cristina  <br>
 25 Mai - 2024 • 09h00 > 25 Mai - 2024 • 12h <br>
 Evento online via Zoom <br> <br>
 
